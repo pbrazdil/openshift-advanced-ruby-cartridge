@@ -1,4 +1,4 @@
-openshift-advanced-ruby-cartridge
+OpenShift Advanced Ruby Cartridge
 =================================
 
-Advanced Ruby cartridge for OpenShift with support for popular web servers and JRuby.
+Cartridge repository moved to [openshift-cartridges/advanced-ruby-cartridge](https://github.com/openshift-cartridges/advanced-ruby-cartridge).
